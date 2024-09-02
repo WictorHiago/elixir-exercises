@@ -1,4 +1,7 @@
-4) Descubra a lógica e complete o próximo elemento:
+### 4 Descubra a lógica e complete o próximo elemento:
+
+
+```
 a) 1, 3, 5, 7, ___
 b) 2, 4, 8, 16, 32, 64, ____
 c) 0, 1, 4, 9, 16, 25, 36, ____
@@ -14,3 +17,4 @@ c = 49
 d = 100
 e = 13
 f = 20
+```
